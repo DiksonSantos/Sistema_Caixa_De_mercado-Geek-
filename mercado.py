@@ -168,3 +168,4 @@ def pega_produto_por_codigo(codigo: int) -> Produto:
 
 if __name__ == '__main__':
     main()
+
