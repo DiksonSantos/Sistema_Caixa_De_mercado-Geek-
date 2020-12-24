@@ -8,3 +8,5 @@ Mega = Produto('Mega Drive', 4500.6666)
 print(ps4)
 print(xbox)
 print(Mega)
+
+print('Duckys')
